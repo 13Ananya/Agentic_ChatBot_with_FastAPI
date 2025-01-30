@@ -1,8 +1,5 @@
-Here's a professional `README.md` file for your AI Agentic Chatbot project:  
 
----
-
-# 🚀 Personal Agentic AI Chatbot  
+#  Personal Agentic AI Chatbot  
 
 An advanced AI chatbot powered by **LangGraph, FastAPI, Streamlit, and OpenAI**, designed to interact intelligently using **ReAct Agents** and external search tools.  
 
